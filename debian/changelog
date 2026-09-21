@@ -1,3 +1,9 @@
+libxau (1:1.0.11-1deepin1) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Mon, 21 Sep 2026 15:40:44 +0800
+
 libxau (1:1.0.11-1) unstable; urgency=medium
 
   [ Debian Janitor ]
